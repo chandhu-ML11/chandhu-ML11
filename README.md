@@ -11,14 +11,14 @@ AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS
 </p>
 
 # 💫 About Me:
-Associate Software Engineer at Accenture specializing in Machine Learning and Generative AI solutions.
+AI/ML Engineer at Accenture building scalable Machine Learning and Generative AI systems for real-world enterprise applications.
 
-- 🎯 Actively seeking AI/ML Engineer roles with strong focus on Generative AI  
-- 🤖 Building LLM-powered chatbots using RAG architectures  
-- 🧠 Fine-tuning and optimizing ML/LLM models to achieve up to 85% accuracy  
-- 🔭 Working on ML Forecasting & Predictive Modeling systems  
-- ☁️ Deploying scalable AI solutions on AWS & GCP  
-- 🚀 Passionate about building intelligent, production-ready AI systems
+- 🤖 Developing LLM-powered chatbots using RAG architectures  
+- 🧠 Training, fine-tuning & optimizing ML/LLM models achieving 85%+ accuracy  
+- 📊 Building forecasting, predictive analytics & customer intelligence systems  
+- ☁️ Deploying production-ready AI solutions on AWS & GCP  
+- 🔍 Working across the full ML lifecycle — from data preprocessing to cloud deployment  
+- 🚀 Focused on delivering measurable, business-impact AI systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/chandhusanaka11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandhusanaka11@gmail.com) 
