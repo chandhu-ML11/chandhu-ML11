@@ -3,14 +3,14 @@
 <h1 align="left">Hi there 👋 I'm Bala Chandhu</h1>
 
 <p align="left">
-AI/ML Engineer | Generative AI | Building scalable intelligent systems on AWS
+AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS | GCP
 </p>
 
 # 💫 About Me:
 Associate Software Engineer at Accenture working on Machine Learning, Forecasting Systems, and Generative AI solutions.
 
 - 🔭 ML Forecasting & Predictive Modeling  
-- ☁️ Deploying AI apps on AWS  
+- ☁️ Deploying AI apps on AWS , GCP 
 - 🧠 Interested in GenAI, NLP, and Scalable AI Systems  
 - 📫 chandhusanaka11@gmail.com
 
