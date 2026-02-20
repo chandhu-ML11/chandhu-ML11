@@ -1,6 +1,10 @@
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+       Hi there 👋, I'm <strong>Bala Chandhu</strong>
 
-<h1 align="left">Hi there 👋 I'm Bala Chandhu</h1>
+</h1>
 
 <p align="left">
 AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS | GCP
