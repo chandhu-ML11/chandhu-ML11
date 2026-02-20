@@ -2,22 +2,23 @@
 
 <h1 align="left">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-       Hi there 👋, I'm <strong>Bala Chandhu</strong>
+       Hi there, I'm <strong>Bala Chandhu</strong>
 
 </h1>
 
 <p align="left">
-AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS | GCP
+AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS | GCP |Python
 </p>
 
 # 💫 About Me:
-Associate Software Engineer at Accenture working on Machine Learning, Forecasting Systems, and Generative AI solutions.
+Associate Software Engineer at Accenture specializing in Machine Learning and Generative AI solutions.
 
-- 🔭 ML Forecasting & Predictive Modeling  
-- ☁️ Deploying AI apps on AWS , GCP 
-- 🧠 Interested in GenAI, NLP, and Scalable AI Systems  
-- 📫 chandhusanaka11@gmail.com
-
+- 🎯 Actively seeking AI/ML Engineer roles with strong focus on Generative AI  
+- 🤖 Building LLM-powered chatbots using RAG architectures  
+- 🧠 Fine-tuning and optimizing ML/LLM models to achieve up to 85% accuracy  
+- 🔭 Working on ML Forecasting & Predictive Modeling systems  
+- ☁️ Deploying scalable AI solutions on AWS & GCP  
+- 🚀 Passionate about building intelligent, production-ready AI systems
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/chandhusanaka11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandhusanaka11@gmail.com) 
