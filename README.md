@@ -1,24 +1,34 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
-
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-       Hi there, I'm <strong>Bala Chandhu</strong>
-
-</h1>
-
-<p align="left">
-AI/ML Engineer | Generative AI | Building Agentic AI systems | NLP | LLM's | AWS | GCP |Python
+<!-- Profile Banner -->
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"
+    alt="Developer banner"
+    width="100%"
+  />
 </p>
 
-# 💫 About Me:
-AI/ML Engineer at Accenture building scalable Machine Learning and Generative AI systems for real-world enterprise applications.
+<h1 align="center">
+  Hi, I'm Bala Chandhu Sanaka
+</h1>
 
-- 🤖 Developing LLM-powered chatbots using RAG architectures  
-- 🧠 Training, fine-tuning & optimizing ML/LLM models achieving 85%+ accuracy  
-- 📊 Building forecasting, predictive analytics & customer intelligence systems  
-- ☁️ Deploying production-ready AI solutions on AWS & GCP  
-- 🔍 Working across the full ML lifecycle — from data preprocessing to cloud deployment  
-- 🚀 Focused on delivering measurable, business-impact AI systems
+<h3 align="center">
+  Software Engineer | Generative AI & Agentic AI
+</h3>
+
+<p align="center">
+  Python | LangChain | LangGraph | RAG | MCP |
+  LLMs | AWS Bedrock | GCP
+</p>
+# 💫 About Me:
+Software Engineer at Accenture with experience building enterprise Generative AI applications, Agentic AI workflows, and LLM-powered solutions.
+
+- 🤖 Developing LLM-powered conversational assistants and Retrieval-Augmented Generation (RAG) applications.
+- 🧠 Building Agentic AI workflows using Python, LangChain, LangGraph, and Model Context Protocol (MCP).
+- 🔍 Designing document ingestion, embedding generation, semantic search, and vector-based retrieval pipelines.
+- ⚙️ Integrating LLMs with external tools and enterprise data using tool calling and agent orchestration.
+- 📊 Evaluating LLM applications using LangSmith and RAGAS to assess response quality, retrieval relevance, and hallucinations.
+- ☁️ Working with AWS Bedrock, AWS Lambda, and Google Cloud Vertex AI.
+- 🚀 Passionate about building reliable, scalable, and knowledge-grounded AI applications for real-world use cases.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/chandhusanaka11) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandhusanaka11@gmail.com) 
