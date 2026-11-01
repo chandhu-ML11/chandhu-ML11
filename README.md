@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">
-  Hi, I'm Bala Chandhu Sanaka
+  Hi, I'm Bala Chandhu
 </h1>
 
 <h3 align="center">
